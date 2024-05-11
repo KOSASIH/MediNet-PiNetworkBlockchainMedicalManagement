@@ -29,10 +29,10 @@ Technologies:
 
 # Contribution Guidelines:
 
-Fork the repository and create a new branch for your changes
-Write tests for any new functionality and ensure existing tests pass
-Document any new features or changes in the /docs directory
-Submit a pull request for review and discussion
+1. Fork the repository and create a new branch for your changes
+2. Write tests for any new functionality and ensure existing tests pass
+3. Document any new features or changes in the /docs directory
+4. Submit a pull request for review and discussion
 
 # License:
 
