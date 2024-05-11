@@ -44,30 +44,30 @@ Here's a sample Python code snippet for a smart contract using the Pi Network bl
 
 ```python
 
-import pi_blockchain as pi
-
-class MedicalDataSmartContract:
-    def __init__(self):
-        self.contract_id = pi.create_contract()
-
-    def add_data(self, patient_id, data_hash):
-        pi.execute_contract(self.contract_id, {
-            'function': 'add_data',
-            'patient_id': patient_id,
-            'data_hash': data_hash
-        })
-
-    def get_data_hash(self, patient_id):
-        result = pi.execute_contract(self.contract_id, {
-            'function': 'get_data_hash',
-            'patient_id': patient_id
-        })
-        return result['data_hash']
-
-medical_data_contract = MedicalDataSmartContract()
-medical_data_contract.add_data('123456', 'abcdef123456')
-data_hash = medical_data_contract.get_data_hash('123456')
-print(f'Data hash for patient 123456: {data_hash}')
+1. import pi_blockchain as pi
+2. 
+3. class MedicalDataSmartContract:
+4.    def __init__(self):
+5.        self.contract_id = pi.create_contract()
+6. 
+7.   def add_data(self, patient_id, data_hash):
+8.        pi.execute_contract(self.contract_id, {
+9.            'function': 'add_data',
+10.            'patient_id': patient_id,
+11.            'data_hash': data_hash
+12.        })
+13. 
+14.    def get_data_hash(self, patient_id):
+15.        result = pi.execute_contract(self.contract_id, {
+16.            'function': 'get_data_hash',
+17.            'patient_id': patient_id
+18.        })
+19.       return result['data_hash']
+20. 
+21. medical_data_contract = MedicalDataSmartContract()
+22. medical_data_contract.add_data('123456', 'abcdef123456')
+23. data_hash = medical_data_contract.get_data_hash('123456')
+24. print(f'Data hash for patient 123456: {data_hash}')
 
 ```
 
