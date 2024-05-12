@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  app:
+    image: myapp:latest
+    container_name: myapp
+    ports:
+      - "8080:8080"
+    depends_on:
+      - tendermint
+
+  tendermint:
+    image: tendermint/tendermint:0.34.1
+    container_name: tendermint
+    ports:
+      - "26657:26657"
+      - "46656:46656"
+    volumes:
+      - ./config:/app/config
+      - ./data:/app/data
+    command: node --home /app/config --proxy_app http://app:8080
