@@ -1,0 +1,45 @@
+{
+  "patientId": 1,
+  "medicalRecordNumber": "123456",
+  "dateOfBirth": "1990-01-01",
+  "gender": "Male",
+  "height": 72,
+  "weight": 180,
+  "bloodPressure": {
+    "systolic": 120,
+    "diastolic": 80
+  },
+  "medications": [
+    {
+      "name": "Lisinopril",
+      "dosage": "10mg",
+      "frequency": "Once a day"
+    },
+    {
+      "name": "Metformin",
+      "dosage": "500mg",
+      "frequency": "Twice a day"
+    }
+  ],
+  "allergies": [
+    {
+      "name": "Penicillin",
+      "reaction": "Rash"
+    },
+    {
+      "name": "Ibuprofen",
+      "reaction": "Stomach pain"
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Diabetes",
+      "dateDiagnosed": "2010-01-01"
+    },
+    {
+      "name": "Hypertension",
+      "dateDiagnosed": "2015-01-01"
+    }
+  ],
+  "notes": "Patient has a history of non-compliance with medication regimen."
+}
