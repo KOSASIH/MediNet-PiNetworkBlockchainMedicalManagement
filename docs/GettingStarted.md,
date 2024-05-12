@@ -1,0 +1,72 @@
+# MediNet: Getting Started
+  
+MediNet is a decentralized medical management system built on the Pi Network blockchain. It provides a secure and transparent platform for managing medical records, appointments, and billing. This guide will help you get started with MediNet.
+
+# Prerequisites
+  
+Before you begin, make sure you have the following:
+
+1. A computer with at least 4GB of RAM and 10GB of free disk space
+2. A stable internet connection
+3. A Pi Network account with at least 1 Pi coin
+
+# Installation
+  
+1. Clone the MediNet repository from GitHub:
+
+```
+1. git clone https://github.com/KOSASIH/MediNet-PiNetworkBlockchainMedicalManagement.git
+```
+  
+2. Install Node.js and npm:
+
+```
+sudo apt-get install nodejs npm
+```
+  
+3. Install the Pi Network blockchain:
+
+```
+sudo apt-get install pi-blockchain
+```
+  
+4. Install the MediNet dependencies:
+
+```
+1. cd MediNet-PiNetworkBlockchainMedicalManagement
+2. npm install
+```
+  
+5. Start the MediNet server:
+
+```
+npm start
+```
+  
+6. Configuration
+  
+Create a .env file in the root directory of the project and add the following:
+
+```
+1. PI_NETWORK_USERNAME=<your Pi Network username>
+2. PI_NETWORK_PASSWORD=<your Pi Network password>
+3. PI_NETWORK_HOST=<your Pi Network host>
+4. PI_NETWORK_PORT=<your Pi Network port>
+5. Set the PI_NETWORK_HOST and PI_NETWORK_PORT to the address and port of your Pi Network node.
+
+# Usage
+  
+1. Open a web browser and navigate to http://localhost:3000.
+2. Log in with your Pi Network account.
+3. Use the MediNet dashboard to manage medical records, appointments, and billing.
+
+# Troubleshooting
+  
+If you encounter any issues, check the MediNet documentation and support forums.
+
+# Additional Resources
+- MediNet Documentation
+- Pi Network Documentation
+- Pi Network Support Forums
+
+This guide should help you get started with MediNet. If you have any questions or issues, please refer to the MediNet documentation and support forums.  
