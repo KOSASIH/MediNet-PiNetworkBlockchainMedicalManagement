@@ -1,10 +1,23 @@
-export interface Patient {
-  id: string;
-  firstName: string;
-  lastName: string;
-  email: string;
-  phoneNumber: string;
-  medicalRecords: MedicalRecord[];
-  createdAt: Date;
-  updatedAt: Date;
+// Improved code
+class Patient {
+  /**
+   * @param {string} name
+   * @param {number} age
+   * @param {string[]} medicalHistory
+   */
+  constructor(name, age, medicalHistory) {
+    this.name = name;
+    this.age = age;
+    this.medicalHistory = medicalHistory;
+  }
+
+  /**
+   * Returns the patient's medical history
+   * @returns {string[]}
+   */
+  getMedicalHistory() {
+    return [...this.medicalHistory]; // Return a copy of the array
+  }
 }
+
+export default Patient;
