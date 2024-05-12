@@ -6,12 +6,12 @@ MediNet-PiNetworkBlockchainMedicalManagement is a decentralized, AI-driven medic
 
 # Key Features:
 
-Decentralized PI network for real-time data collection and analysis
-Pi Network blockchain-based ledger for secure, transparent data storage
-Machine learning engine for predictive analytics and resource optimization
-Web-based management platform for medical resource allocation and patient care
-Disease surveillance module for proactive outbreak prevention
-Personalized health management system for patients
+1. Decentralized PI network for real-time data collection and analysis
+2. Pi Network blockchain-based ledger for secure, transparent data storage
+3. Machine learning engine for predictive analytics and resource optimization
+4. Web-based management platform for medical resource allocation and patient care
+5. Disease surveillance module for proactive outbreak prevention
+6. Personalized health management system for patients
 
 # Technologies:
 
