@@ -34,3 +34,16 @@ class BlockchainInteroperability:
             raise ValueError("Invalid chain specified")
 
     def verify_data(self, data: dict, chain: str):
+# Verify the data on a blockchain network
+        if chain == 'medi_chain':
+            # Verify the data on MediChain
+            response = requests.get(f"{self.medi_chain_url}/{data['id']}")
+            if response.status_code == 200:
+                print(f"Data verified on MediChain!")
+        elif chain == 'other_chain':
+            # Verify the data on the other chain
+            response = requests.get(f"{self.other_chain_url}/{data['id']}")
+            if response.status_code == 200:
+                print(f"Data verified on {to_chain}!")
+        else:
+            raise ValueError("Invalid chain specified")
