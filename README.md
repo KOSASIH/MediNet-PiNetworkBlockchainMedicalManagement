@@ -89,6 +89,15 @@
 [![Global Health Security Initiative](https://img.shields.io/badge/GHSI-0072B8?style=flat&logo=global-health-security-initiative)](https://www.ghsi.org/)
 [![International Society for Infectious Diseases](https://img.shields.io/badge/ISID-0072B8?style=flat&logo=isid)](https://www.isid.org/)
 [![World Health Organization - Antimicrobial Resistance](https://img.shields.io/badge/WHO_AMR-0072B8?style=flat&logo=who)](https://www.who.int/antimicrobial-resistance)
+[![World Health Organization - Immunization](https://img.shields.io/badge/WHO_Immunization-0072B8?style=flat&logo=who)](https://www.who.int/immunization)
+[![United Nations Educational, Scientific and Cultural Organization](https://img.shields.io/badge/UNESCO-EA5C5A?style=flat&logo=unesco)](https://en.unesco.org/)
+[![World Meteorological Organization](https://img.shields.io/badge/WMO-0072B8?style=flat&logo=wmo)](https://public.wmo.int/en)
+[![International Telecommunication Union](https://img.shields.io/badge/ITU-0072B8?style=flat&logo=itu)](https://www.itu.int/en/ITU-T/Pages/default.aspx)
+[![World Intellectual Property Organization](https://img.shields.io/badge/WIPO-0072B8?style=flat&logo=wipo)](https://www.wipo.int/)
+[![International Fund for Agricultural Development](https://img.shields.io/badge/IFAD-0072B8?style=flat&logo=ifad)](https://www.ifad.org/)
+[![United Nations Development Programme](https://img.shields.io/badge/UNDP-0072B8?style=flat&logo=undp)](https://www.undp.org/)
+[![International Criminal Police Organization](https://img.shields.io/badge/INTERPOL-0072B8?style=flat&logo=interpol)](https://www.interpol.int/)
+[![World Tourism Organization](https://img.shields.io/badge/UNWTO-0072B8?style=flat&logo=unwto)](https://www.unwto.org/)
 
 # MediNet-PiNetworkBlockchainMedicalManagement
 
