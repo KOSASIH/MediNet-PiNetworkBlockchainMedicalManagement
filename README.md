@@ -28,7 +28,26 @@
 [![World Health Organization - Health Emergency Programme](https://img.shields.io/badge/WHO_HEP-0072B8?style=flat&logo=who)](https://www.who.int/emergencies)
 [![Global Health Council](https://img.shields.io/badge/Global_Health_Council-0072B8?style=flat&logo=global-health-council)](https://globalhealth.org/)
 [![International Agency for Research on Cancer](https://img.shields.io/badge/IARC-0072B8?style=flat&logo=iarc)](https://www.iarc.who.int/)
-
+[![World Health Organization - Mental Health](https://img.shields.io/badge/WHO_Mental_Health-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/mental-health)
+[![International Diabetes Federation](https://img.shields.io/badge/IDF-0072B8?style=flat&logo=idf)](https://www.idf.org/)
+[![World Federation of Public Health Associations](https://img.shields.io/badge/WFPHA-0072B8?style=flat&logo=wfpha)](https://wfpha.org/)
+[![Global Alliance for Vaccines and Immunization](https://img.shields.io/badge/GAVI-0072B8?style=flat&logo=gavi)](https://www.gavi.org/)
+[![World Health Organization - Noncommunicable Diseases](https://img.shields.io/badge/WHO_NCDs-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/noncommunicable-diseases)
+[![International Federation of Pharmaceutical Manufacturers & Associations](https://img.shields.io/badge/IFPMA-0072B8?style=flat&logo=ifpma)](https://www.ifpma.org/)
+[![Global Health Workforce Alliance](https://img.shields.io/badge/GHWA-0072B8?style=flat&logo=global-health-workforce)](https://www.who.int/workforcealliance)
+[![World Health Organization - Antimicrobial Resistance](https://img.shields.io/badge/WHO_AMR-0072B8?style=flat&logo=who)](https://www.who.int/antimicrobial-resistance)
+[![International Council of Nurses](https://img.shields.io/badge/ICN-0072B8?style=flat&logo=icn)](https://www.icn.ch/)
+[![Global Fund for Women](https://img.shields.io/badge/Global_Fund_for_Women-0072B8?style=flat&logo=global-fund-for-women)](https://www.globalfundforwomen.org/)
+[![World Health Organization - Health Promotion](https://img.shields.io/badge/WHO_Health_Promotion-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/health-promotion)
+[![International Federation of Red Cross and Red Crescent Societies](https://img.shields.io/badge/IFRC-0072B8?style=flat&logo=ifrc)](https://www.ifrc.org/)
+[![The Partnership for Maternal, Newborn & Child Health](https://img.shields.io/badge/PMNCH-0072B8?style=flat&logo=pmnch)](https://www.who.int/pmnch)
+[![World Health Organization - Tobacco Control](https://img.shields.io/badge/WHO_Tobacco_Control-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/tobacco)
+[![Global Health Security Agenda](https://img.shields.io/badge/GHSA-0072B8?style=flat&logo=global-health-security)](https://ghsagenda.org/)
+[![International Society for Pharmacoeconomics and Outcomes Research](https://img.shields.io/badge/ISPOR-0072B8?style=flat&logo=ispor)](https://www.ispor.org/)
+[![World Health Organization - Immunization](https://img.shields.io/badge/WHO_Immunization-0072B8?style=flat&logo=who)](https://www.who.int/immunization)
+[![Global Health Institute](https://img.shields.io/badge/Global_Health_Institute-0072B8?style=flat&logo=global-health-institute)](https://www.globalhealthinstitute.org/)
+[![The Lancet Global Health](https://img.shields.io/badge/The_Lancet_Global_Health-0072B8?style=flat&logo=lancet)](https://www.thelancet.com/journals/langlo)
+[![World Health Organization - Nutrition](https://img.shields.io/badge/WHO_Nutrition-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/nutrition)
 
 # MediNet-PiNetworkBlockchainMedicalManagement
 
