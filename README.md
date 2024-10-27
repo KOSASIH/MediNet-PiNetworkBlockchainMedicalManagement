@@ -120,7 +120,6 @@
 [![Digital Health Society](https://img.shields.io/badge/Digital_Health_Society-0072B8?style=flat&logo=digital-health)](https://digitalhealthsociety.eu/)
 [![The Health Innovation Exchange](https://img.shields.io/badge/Health_Innovation_Exchange-0072B8?style=flat&logo=health-innovation)](https://www.healthinnovationexchange.org/)
 [![MedTech Europe - Innovation Awards](https://img.shields.io/badge/MedTech_Europe_Innovation_Awards-0072B8?style=flat&logo=medtech)](https://medtecheurope.org/)
-[![Global Health Innovation Challenge](https://img.shields.io/badge/Global_Health_Innovation_Challenge-0072B8?style=flat&logo=global-health)](https://www.globalhealthinnovationchallenge.org/)
 
 # MediNet-PiNetworkBlockchainMedicalManagement
 
