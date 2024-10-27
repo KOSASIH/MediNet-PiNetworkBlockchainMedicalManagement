@@ -110,6 +110,11 @@
 [![UNICEF - Global Goals](https://img.shields.io/badge/UNICEF_Global_Goals-0072B8?style=flat&logo=unicef)](https://www.unicef.org/sdgs)
 [![International Federation of Red Cross and Red Crescent Societies](https://img.shields.io/badge/IFRC-FF0000?style=flat&logo=red-cross)](https://www.ifrc.org/en/)
 [![World Health Organization - Global Health Observatory](https://img.shields.io/badge/WHO_GHO-0072B8?style=flat&logo=who)](https://www.who.int/data/gho)
+[![UNESCO - International Science Day](https://img.shields.io/badge/UNESCO_Science_Day-FFCC00?style=flat&logo=unesco)](https://www.unesco.org/en/days/international-science-day)
+[![World Health Organization - World Immunization Week](https://img.shields.io/badge/WHO_Immunization_Week-0072B8?style=flat&logo=who)](https://www.who.int/campaigns/world-immunization-week)
+[![World Health Organization - World Mental Health Day](https://img.shields.io/badge/WHO_Mental_Health_Day-0072B8?style=flat&logo=who)](https://www.who.int/campaigns/world-mental-health-day)
+[![International Organization for Migration - Migration Awards](https://img.shields.io/badge/IOM_Migration_Awards-0072B8?style=flat&logo=iom)](https://www.iom.int/)
+[![World Health Assembly - Health for All](https://img.shields.io/badge/WHO_Health_for_All-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/world-health-assembly)
 
 [![HIMSS - Davies Award](https://img.shields.io/badge/HIMSS_Davies_Award-0072B8?style=flat&logo=himss)](https://www.himss.org/davies-award)
 [![Health 2.0 - Innovation Awards](https://img.shields.io/badge/Health_2.0_Innovation_Awards-0072B8?style=flat&logo=health-2.0)](https://www.health2con.com/)
@@ -120,6 +125,11 @@
 [![Digital Health Society](https://img.shields.io/badge/Digital_Health_Society-0072B8?style=flat&logo=digital-health)](https://digitalhealthsociety.eu/)
 [![The Health Innovation Exchange](https://img.shields.io/badge/Health_Innovation_Exchange-0072B8?style=flat&logo=health-innovation)](https://www.healthinnovationexchange.org/)
 [![MedTech Europe - Innovation Awards](https://img.shields.io/badge/MedTech_Europe_Innovation_Awards-0072B8?style=flat&logo=medtech)](https://medtecheurope.org/)
+[![Health Innovation Hub](https://img.shields.io/badge/Health_Innovation_Hub-0072B8?style=flat&logo=health-innovation)](https://healthinnovationhub.ie/)
+[![Digital Health Awards - Best Practices](https://img.shields.io/badge/Digital_Health_Awards_Best_Practices-0072B8?style=flat&logo=digital-health)](https://www.digitalhealthawards.com/)
+[![Health 2.0 - Startup Showcase](https://img.shields.io/badge/Health_2.0_Startup_Showcase-0072B8?style=flat&logo=health-2.0)](https://www.health2con.com/)
+[![MedTech Innovator - Accelerator Program](https://img.shields.io/badge/MedTech_Innovator_Accelerator-0072B8?style=flat&logo=medtech)](https://medtechinnovator.org/)
+[![HealthTech Women - Awards](https://img.shields.io/badge/HealthTech_Women_Awards-0072B8?style=flat&logo=healthtech)](https://healthtechwomen.com/)
 
 # MediNet-PiNetworkBlockchainMedicalManagement
 
