@@ -99,6 +99,29 @@
 [![International Criminal Police Organization](https://img.shields.io/badge/INTERPOL-0072B8?style=flat&logo=interpol)](https://www.interpol.int/)
 [![World Tourism Organization](https://img.shields.io/badge/UNWTO-0072B8?style=flat&logo=unwto)](https://www.unwto.org/)
 
+[![Nobel Prize](https://img.shields.io/badge/Nobel_Prize-FFD700?style=flat&logo=nobel-prize)](https://www.nobelprize.org/)
+[![UNESCO World Heritage](https://img.shields.io/badge/UNESCO_World_Heritage-FFCC00?style=flat&logo=unesco)](https://whc.unesco.org/)
+[![UNESCO International Literacy Prize](https://img.shields.io/badge/UNESCO_Literacy_Prize-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/prizes/literacy)
+[![World Health Organization - World Health Assembly](https://img.shields.io/badge/WHO_WHA-0072B8?style=flat&logo=who)](https://www.who.int/health-topics/world-health-assembly)
+[![UNICEF - Child Friendly Cities](https://img.shields.io/badge/UNICEF_CFC-0072B8?style=flat&logo=unicef)](https://www.unicef.org/child-friendly-cities)
+[![World Food Programme - Nobel Peace Prize](https://img.shields.io/badge/WFP_Nobel_Peace_Prize-0072B8?style=flat&logo=wfp)](https://www.wfp.org/nobel-peace-prize)
+[![UNESCO - International Literacy Day](https://img.shields.io/badge/UNESCO_Literacy_Day-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/commemorations/literacyday)
+[![World Health Organization - World Health Day](https://img.shields.io/badge/WHO_World_Health_Day-0072B8?style=flat&logo=who)](https://www.who.int/campaigns/world-health-day)
+[![UNICEF - Global Goals](https://img.shields.io/badge/UNICEF_Global_Goals-0072B8?style=flat&logo=unicef)](https://www.unicef.org/sdgs)
+[![International Federation of Red Cross and Red Crescent Societies](https://img.shields.io/badge/IFRC-FF0000?style=flat&logo=red-cross)](https://www.ifrc.org/en/)
+[![World Health Organization - Global Health Observatory](https://img.shields.io/badge/WHO_GHO-0072B8?style=flat&logo=who)](https://www.who.int/data/gho)
+
+[![HIMSS - Davies Award](https://img.shields.io/badge/HIMSS_Davies_Award-0072B8?style=flat&logo=himss)](https://www.himss.org/davies-award)
+[![Health 2.0 - Innovation Awards](https://img.shields.io/badge/Health_2.0_Innovation_Awards-0072B8?style=flat&logo=health-2.0)](https://www.health2con.com/)
+[![MedTech Innovator](https://img.shields.io/badge/MedTech_Innovator-0072B8?style=flat&logo=medtech)](https://medtechinnovator.org/)
+[![Digital Health Awards](https://img.shields.io/badge/Digital_Health_Awards-0072B8?style=flat&logo=digital-health)](https://www.digitalhealthawards.com/)
+[![Global Digital Health Partnership](https://img.shields.io/badge/Global_Digital_Health_Partnership-0072B8?style=flat&logo=global-health)](https://www.gdhp.org/)
+[![HealthTech Innovation Challenge](https://img.shields.io/badge/HealthTech_Innovation_Challenge-0072B8?style=flat&logo=healthtech)](https://www.healthtechinnovationchallenge.com/)
+[![Digital Health Society](https://img.shields.io/badge/Digital_Health_Society-0072B8?style=flat&logo=digital-health)](https://digitalhealthsociety.eu/)
+[![The Health Innovation Exchange](https://img.shields.io/badge/Health_Innovation_Exchange-0072B8?style=flat&logo=health-innovation)](https://www.healthinnovationexchange.org/)
+[![MedTech Europe - Innovation Awards](https://img.shields.io/badge/MedTech_Europe_Innovation_Awards-0072B8?style=flat&logo=medtech)](https://medtecheurope.org/)
+[![Global Health Innovation Challenge](https://img.shields.io/badge/Global_Health_Innovation_Challenge-0072B8?style=flat&logo=global-health)](https://www.globalhealthinnovationchallenge.org/)
+
 # MediNet-PiNetworkBlockchainMedicalManagement
 
 # Short Description:
